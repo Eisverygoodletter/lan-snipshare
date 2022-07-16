@@ -1,0 +1,1 @@
+# lan-snipshare README
